@@ -5,7 +5,7 @@
 ## 목차
 
 - [x] [chapter01: 리눅스 개요](/books/linux_structure/chapter01/)
-- [ ] chapter02: 프로세스 관리
+- [x] [chapter02: 프로세스 관리](/books/linux_structure/chapter02/)
 - [ ] chapter03: 프로세스 스케줄러
 - [ ] chapter04: 메모리 관리 시스템
 - [ ] chapter05: 프로세스 관리(응용편)
